@@ -30,26 +30,11 @@ Database: MySQL ver 8.0.30 <br>
 
 
 ## Feature:
-- i18n with English and Japanese
 - Authentication with JWT, remember me feature
-- Validate Sign in/Sign up form
+- Validate Sign in/Sign up 
 - Create, Show, Update and Delete posts.
-- Drag and drop images to create posts
-- Lazy loading
 - Comment and like posts
-- Follow users feature, only show following users's posts
+- Follow users , 
 - Search other users
 - Edit profile infomation, change current password
-- Reponsive
 
-
-## Preview
-
-Demo video: https://youtu.be/cITqlreBgVM
-
-<img src="https://user-images.githubusercontent.com/69473375/220248891-bae21a73-00b3-480f-b4eb-f7e2894fbfb8.png" width="700" height="500">
-
-
-## License
-
-Nest is [MIT licensed](LICENSE).
