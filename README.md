@@ -24,7 +24,7 @@
 
 ## Description
 
-Frontend: VueJS 3 and TailwindCSS<br>
+
 Backend: NestJS <br>
 Database: MySQL ver 8.0.30 <br>
 
